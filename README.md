@@ -1,8 +1,10 @@
 # key-mining
 ## tools
-```apt update
 ```
-```apt install python3-venv python3-pip -y
+apt update
+```
+```
+apt install python3-venv python3-pip -y
 ```
 ## run bot
 
